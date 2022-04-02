@@ -5,13 +5,11 @@
 
 - 🚥 Nowadays, I’m learning and writing a lot. 🆘
 - ⭐ Quote: "Once you stop learning, you start dying"-Einstein. 
-- 🌱 I’m currently improving skills on full-stack development ( WINS and MERN stacks + Node.js | MongoDB | Django Web Framework | RestAPI)
+- 🌱 I’m currently improving skills on full-stack development ( WINS and MERN stacks + Node.js | MongoDB | Django Web Framework | RestAPI | )
 - 👯 I’m looking to collaborate with other developers.
-- 🥅 2021 Goals: Contribute more to Open Source projects
 - 📫 How to reach me **btk.kzc@gmail.com**
 - 📄 Know about my proffessional experiences 
 - 📄 Know about my academic background experiences
-- 💝 Interests: Cyber security, ML, Robotics, AI, Blockchain
 - ⚡ Fun fact: I love to ride 🚲 and 🚶
 
 
