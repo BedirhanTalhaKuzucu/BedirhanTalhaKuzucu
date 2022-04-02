@@ -18,7 +18,7 @@
 ---
 ###  Connect with me:
 <p align="left">
-  <a href="www.linkedin.com/in/bedirhan-talha-kuzucu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bedirhan" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/bedirhan-talha-kuzucu-ab3099225/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bedirhan" height="30" width="40" /></a>
   
 
 ---
@@ -56,12 +56,12 @@
 ---
 ### 📈 Statistics
 
-<p align="left"><img src="https://komarev.com/ghpvc/?username=BedirhanTalhaKuzucu" alt="visitor counter" width="20%"/></p>
+
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=emrevarli&count_private=true&show_icons=true&theme=ayu-mirage" alt="my github stats" width="49%"/>&nbsp;
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=emrevarli&theme=ayu-mirage" alt="my commit status" width="49%" /> </p>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emrevarli&count_private=true&show_icons=true&theme=ayu-mirage&layout=compact" alt="languages" width="50%"></p>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=emrevarli&theme=ayu-mirage" alt="wakatime-stats" width="50%"></p>
+<img src="https://github-readme-stats.vercel.app/api?username=BedirhanTalhaKuzucu&count_private=true&show_icons=true&theme=ayu-mirage" alt="my github stats" width="49%"/>&nbsp;
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=BedirhanTalhaKuzucu&theme=ayu-mirage" alt="my commit status" width="49%" /> </p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BedirhanTalhaKuzucu&count_private=true&show_icons=true&theme=ayu-mirage&layout=compact" alt="languages" width="50%"></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=BedirhanTalhaKuzucu&theme=ayu-mirage" alt="wakatime-stats" width="50%"></p>
 
 ---
 
