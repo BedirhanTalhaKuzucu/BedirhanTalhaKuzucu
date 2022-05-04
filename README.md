@@ -59,7 +59,7 @@
 
 <p align="left">
 <img align="left" alt="bedirhans's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=BedirhanTalhaKuzucu&show_icons=true&theme=radical" />
-<img src="https://bedirhan-talha-kuzucu.vercel.app/api?username=BedirhanTalhaKuzucu&count_private=true&show_icons=true&theme=ayu-mirage" alt="my github stats" width="49%"/>&nbsp;
+### <img src="https://bedirhan-talha-kuzucu.vercel.app/api?username=BedirhanTalhaKuzucu&count_private=true&show_icons=true&theme=ayu-mirage" alt="my github stats" ###width="49%"/>&nbsp;
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=BedirhanTalhaKuzucu&theme=ayu-mirage" alt="my commit status" width="49%" /> </p>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BedirhanTalhaKuzucu&count_private=true&show_icons=true&theme=ayu-mirage&layout=compact" alt="languages" width="50%"></p>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=BedirhanTalhaKuzucu&theme=ayu-mirage" alt="wakatime-stats" width="50%"></p>
