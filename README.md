@@ -3,7 +3,7 @@
 ### Hi there, I'm Bedirhan Talha  👋
 
 
-## I'm a Full Stack Developer
+## I'm a Web Developer
 
 - 🚥 Nowadays, I’m learning and writing a lot. 🆘
 - ⭐ Quote: "Once you stop learning, you start dying"-Einstein. 
