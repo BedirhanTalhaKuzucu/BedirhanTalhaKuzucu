@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?multiline=true&width=500&lines=Full-stack+web+developer.++++++++++)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?multiline=true&width=500&lines=Web+developer.++++++++++)](https://git.io/typing-svg)
 
 ### Hi there, I'm Bedirhan Talha  👋
 
