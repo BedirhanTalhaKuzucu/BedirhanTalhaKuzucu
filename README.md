@@ -1,13 +1,12 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?multiline=true&width=500&lines=Web+developer.++++++++++)](https://git.io/typing-svg)
 
 ### Hi there, I'm Bedirhan Talha  👋
 
 
 ## I'm a Web Developer
 
-- 🚥 Nowadays, I’m learning and writing a lot. 🆘
-- ⭐ Quote: "Once you stop learning, you start dying"-Einstein. 
-- 🌱 I’m currently improving skills on full-stack development ( WINS and MERN stacks + Node.js | MongoDB | Django Web Framework | RestAPI | )
+- 🚥 I dream, I learn, I code. 🆘
+- ⭐ Like every developer, learning new things and putting them into practice is my favorite thing.. 
+- 🌱 My focus is on frontend technologies, but I can't give up on backend technologies either. ( MEAN and MERN stacks + Django  | NextJs  )
 - 👯 I’m looking to collaborate with other developers.
 - 📫 How to reach me **btk.kzc@gmail.com**
 - 📄 Know about my proffessional experiences 
@@ -20,7 +19,8 @@
 ###  Connect with me:
 <p align="left">
   <a href="https://www.linkedin.com/in/bedirhan-talha-kuzucu-ab3099225/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bedirhan" height="30" width="40" /></a>
-  
+<p align="left">
+  <a href="https://www.xing.com/profile/BedirhanTalha_Kuzucu/web_profiles?expandNeffi=true" target="blank"><img align="center" src="https://logosandtypes.com/wp-content/uploads/2020/08/xing.svg" alt="bedirhan" height="30" width="40" /></a>  
 
 ---
 ###  Languages & Tools
