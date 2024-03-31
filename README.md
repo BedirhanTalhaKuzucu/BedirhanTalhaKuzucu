@@ -12,6 +12,8 @@
 - 📄 Know about my proffessional experiences 
 - ⚡ Fun fact: I love to ride 🚲 and 🚶
 
+!!! Since I use GitLub at work, I have not been able to use my GitHub account actively for a while. But I will revive these places soon
+
 
 <span class="mdi-car-lifted-pickup"></span>
 
