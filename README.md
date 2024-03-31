@@ -51,24 +51,8 @@
 </p>
 
 ---
-### 📈 Statistics
-
-<p align="left">
-<img align="left" alt="bedirhans's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=BedirhanTalhaKuzucu&show_icons=true&theme=radical" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=BedirhanTalhaKuzucu&theme=ayu-mirage" alt="my commit status" width="49%" /> </p>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BedirhanTalhaKuzucu&count_private=true&show_icons=true&theme=ayu-mirage&layout=compact" alt="languages" width="50%"></p>
 
 
----
 
-### 📺 My Favorite YouTube Videos
-
-<!-- YOUTUBE:START -->
-
-<!-- YOUTUBE:END -->
-
-➡️ [more videos...](https://youtube.com/codestackr)
-
----
 
 
