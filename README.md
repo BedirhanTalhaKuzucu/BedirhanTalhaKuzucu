@@ -19,6 +19,7 @@
 ###  Connect with me:
 <p align="left">
   <a href="https://www.linkedin.com/in/bedirhan-talha-kuzucu-ab3099225/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bedirhan" height="30" width="40" /></a>
+<br/>
 <p align="left">
   <a href="https://www.xing.com/profile/BedirhanTalha_Kuzucu/web_profiles?expandNeffi=true" target="blank"><img align="center" src="https://logosandtypes.com/wp-content/uploads/2020/08/xing.svg" alt="bedirhan" height="30" width="40" /></a>  
 
